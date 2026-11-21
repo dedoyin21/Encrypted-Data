@@ -22,4 +22,6 @@ Proof of completion of the Fiber interactive tutorial:
 
    ![Buyer's decrypted result](proofs/quest-1/After-decryption-buyer-result.png)
 
-The [seller's invoice](proofs/quest-1/Seller-invoice-created.png) provides additional evidence of the 1 CKB invoice and its payment hash.
+The seller's invoice provides additional evidence of the 1 CKB invoice and its payment hash:
+
+![Seller's 1 CKB invoice and payment hash](proofs/quest-1/Seller-invoice-created.png)
